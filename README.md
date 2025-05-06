@@ -1,4 +1,23 @@
-Url: http://localhost:3000/api
+# Sales Data API
+
+This is a backend API project that provides endpoints to analyze sales data, including total revenue, revenue by product, category, and region.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+------------------------------------------------------------
+
+EndPoints: 
+
+/api/revenue/total: Get total revenue
+
+/api/revenue/by-product: Get revenue by product
+
+/api/revenue/by-category: Get revenue by category
+
+/api/revenue/by-region: Get revenue by region
 
 ------------------------------------------------------------
 database structure: 
